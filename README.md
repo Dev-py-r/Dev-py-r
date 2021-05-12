@@ -1,10 +1,25 @@
 - 👋 Hi, I’m Deviprasad Shetty
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+- Please check my website:   https://www.devanalytical.com/
 
-<!---
-Dev-py-r/Dev-py-r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m a certified data scientist ExcelR Solutions
+- 🌱 My skills include Language: python
+•	Libraries for getting data, cleaning data, EDA: pandas, numpy.
+•	Also, sklearn library
+•	Scraping data using library: scrapy
+•	Also familiar with visualization tools and library like matplotlib, seaborn and power BI.
+•	For bigdata know basic pyspark, Azure SQL 
+•	Code editing software like pycharm, spider, Data Bricks.
+•	Creating and deployment app using bootstrap, flask, Heroku or Azure
+
+Other Certification
+
+IBM cognitiveclass
+Data Visualization with Python
+Machine Learning with Python
+Data Analysis with Python
+Python 101 for Data Science
+SQL Fundamentals course from Solo Learn
+MS Excel Certification from LearnVern
+
+
