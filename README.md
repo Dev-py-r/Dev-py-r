@@ -2,7 +2,7 @@
 - 
 - Please check my website:   https://www.devanalytical.com/
 
-- 👀 I’m a certified data scientist ExcelR Solutions
+- 👀 I’m a certified data scientist from ExcelR Solutions
 - 🌱 My skills include Language: python
 •	Libraries for getting data, cleaning data, EDA: pandas, numpy.
 •	Also, sklearn library
