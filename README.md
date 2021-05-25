@@ -2,24 +2,19 @@
 - 
 - Please check my website:   https://www.devanalytical.com/
 
-- 👀 I’m a certified data scientist from ExcelR Solutions
-- 🌱 My skills include Language: python
-•	Libraries for getting data, cleaning data, EDA: pandas, numpy.
+- 👀 I am an experienced graduate customer service professional who is trying to make a career switch. 
+I am an aspiring enthusiastic Data Scientist. 
+I successfully completed a certification in Data Science. 
+I am looking for a launchpad to start my career as a Data Scientist.
+
+- 🌱 My skills include Language: python pandas, numpy.
 •	Also, sklearn library
 •	Scraping data using library: scrapy
-•	Also familiar with visualization tools and library like matplotlib, seaborn and power BI.
-•	For bigdata know basic pyspark, Azure SQL 
+•	Also familiar with visualization tools and library like matplotlib, seaborn and Tableau.
+•	Basic pyspark, Azure SQL never used it though
 •	Code editing software like pycharm, spider, Data Bricks.
 •	Creating and deployment app using bootstrap, flask, Heroku or Azure
 
-Other Certification
 
-IBM cognitiveclass
-Data Visualization with Python
-Machine Learning with Python
-Data Analysis with Python
-Python 101 for Data Science
-SQL Fundamentals course from Solo Learn
-MS Excel Certification from LearnVern
 
 
